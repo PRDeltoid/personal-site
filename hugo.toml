@@ -1,4 +1,4 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Taylor's Personal Site'
+title = 'My Personal Site'
 theme = 'mini'
