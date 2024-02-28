@@ -1,4 +1,14 @@
 baseURL = 'https://taylorbritton.me'
 languageCode = 'en-us'
-title = 'My Personal Site'
+title = 'Taylor Britton'
 theme = 'mini'
+
+[social]
+github = "https://github.com/PRDeltoid/"
+
+[params]
+author = "Taylor Britton"
+bio = "Software Engineer"
+description = "My Blog"
+hiddenPostSummaryInHomePage = false
+copyright = "© Copyright 2024 Taylor Britton"
